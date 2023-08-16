@@ -6,6 +6,7 @@
   * Return: void
   */
 void print_alphabet(void);
+(
 {
 	char c;
 
@@ -16,3 +17,4 @@ void print_alphabet(void);
 
 	_putchar('\n');
 }
+)
